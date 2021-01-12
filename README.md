@@ -1,16 +1,18 @@
-### Hi there 👋
+### Jegyun Park | 박 제균
 
-<!--
-**jekyun-park/jekyun-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋
 
-Here are some ideas to get you started:
+```python
+print("안녕하세요, 박제균 입니다.")
+print("Hi, my name is Jegyun Park")
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📚 Here's what I'm studying,,,
+
+- Python 
+- VanilaJS 
+- React 
+- React-Native 
+- Algorithms
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jekyun-park&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
