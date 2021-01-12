@@ -15,4 +15,3 @@ print("Hi, my name is Jegyun Park")
 - React-Native 
 - Algorithms
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jekyun-park&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
