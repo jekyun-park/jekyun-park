@@ -4,7 +4,9 @@
 
 ```python
 print("안녕하세요, 박제균 입니다.")
-print("Hi, my name is Jegyun Park")
+```
+```javascript
+console.log("Student, Hanyang Univ, ERICA")
 ```
 
 #### 📚 Here's what I'm studying Now
