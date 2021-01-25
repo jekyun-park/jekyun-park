@@ -1,13 +1,6 @@
 ### Jegyun Park | 박 제균
 
-🙋
-
-```python
-print("안녕하세요, 박제균 입니다.")
-```
-```javascript
-console.log("Student, Hanyang Univ, ERICA")
-```
+👨🏻‍💻  
 
 #### 📚 Here's what I'm studying Now
 
