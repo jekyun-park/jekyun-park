@@ -1,6 +1,6 @@
 ### Jegyun Park | 박 제균
 
-👨🏻‍💻  
+🌱 👨🏻‍💻  
 
 #### 📚 Here's what I'm studying Now
 
