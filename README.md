@@ -1,6 +1,6 @@
 ### Jegyun Park | 박 제균
 
-🌱 👨🏻‍💻  
+🌱 👨🏻‍💻 📱
 
 #### How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:parkjekyun@gmail.com)
